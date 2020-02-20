@@ -20,6 +20,6 @@ app.get('/profile', function(req, res) {
 
 app.use('/auth', require('./controllers/auth'));
 
-var server = app.listen(process.env.PORT || 3000);
+var server = app.listen(process.env.PORT || 8000);
 
 module.exports = server;
