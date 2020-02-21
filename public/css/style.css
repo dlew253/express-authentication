@@ -1,0 +1,16 @@
+.alert {
+    border-radius: 10%;
+    box-shadow: .1em rgb(180, 255, 218);
+    color:whitesmoke;
+};
+
+
+.red {
+    background-color: tomato;
+
+};
+
+.green {
+    background-color: rgb(89, 165, 122);
+
+};
